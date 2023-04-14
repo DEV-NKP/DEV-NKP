@@ -1,6 +1,6 @@
 <h1 align="center">✨Welcome✨
 <br>
-👨‍💻This is Niloy Kanti Paul👨‍💻 </h1>
+👨‍💻This is Niloy Kanti Paul </h1>
 <p align="center">
   <kbd>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjZmVkMzMwYTdhY2QyOWJjZDcxMmRkMzkzYjNkNTFkYTRmNzdmYyZjdD1n/26DoiqmYcxgFICb3G/giphy-downsized.gif" height="250" width="250"/>
@@ -11,7 +11,7 @@
 </p>
 
 
-***<h1 align="center">🎲 About Me 🎲</h1>***
+***<h1 align="center">🎲 About Me </h1>***
   <p align="center">
   I am a student of computer science and engineering at American International University-Bangladesh. Currently, completing my BSc in CSE. Working in web technologies,   software development, and UI/UX design, delivering quality works.
   I have completed some projects in different programming languages and different tools or IDE. I have already acquired some knowledge about those and trying to learn more with time.<br>
@@ -20,7 +20,7 @@
 
   
   
-***<h1 align="center">📈 Stats 📈</h1>***
+***<h1 align="center">📈 Stats </h1>***
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-nkp&show_icons=true&locale=en&theme=dracula" alt="DEV-NKP"/></p>
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nkp&layout=compact&theme=dracula"/></p>
