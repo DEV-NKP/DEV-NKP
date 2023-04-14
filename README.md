@@ -20,7 +20,7 @@ This is Niloy Kanti Paul </h1>
   
   
 ***<h1 align="center">📈 Stats </h1>***
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nkp" alt="DEV-NKP"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nkp&theme=dark&background=000000" alt="DEV-NKP"/></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-nkp&show_icons=true&locale=en&theme=dracula" alt="DEV-NKP"/></p>
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nkp&layout=compact&theme=dracula"/></p>
