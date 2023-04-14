@@ -5,11 +5,12 @@
 </p>
 
 
-
-<p align="center">
 ### 🧑‍💻 About Me
-I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">AIUB</a>. I am passionate about web development and AI  (Computer vision and NLP).
-</p>
+  <p align="center">
+  I am a student of computer science and engineering at American International University-Bangladesh. Currently, completing my BSc in CSE. Working in web technologies,   software development, and UI/UX design, delivering quality works.
+  I have completed some projects in different programming languages and different tools or IDE. I have already acquired some knowledge about those and trying to learn more with time.
+  Research Interests: Artificial Intelligence, Machine Learning, Automation System, Internet of Things.
+  </p>
 <br>
 
 
