@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, This is Niloy Kanti Paul </h1>
 <p align="center">
   <kbd>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjZmVkMzMwYTdhY2QyOWJjZDcxMmRkMzkzYjNkNTFkYTRmNzdmYyZjdD1n/26DoiqmYcxgFICb3G/giphy-downsized.gif" height="300" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjZmVkMzMwYTdhY2QyOWJjZDcxMmRkMzkzYjNkNTFkYTRmNzdmYyZjdD1n/26DoiqmYcxgFICb3G/giphy-downsized.gif" height="250" width="250"/>
 </kbd>
 </p>
 <p align="center">
@@ -12,7 +12,7 @@
 ***<h1 align="center">🎲 About Me</h1>***
   <p align="center">
   I am a student of computer science and engineering at American International University-Bangladesh. Currently, completing my BSc in CSE. Working in web technologies,   software development, and UI/UX design, delivering quality works.
-  I have completed some projects in different programming languages and different tools or IDE. I have already acquired some knowledge about those and trying to learn more with time.
+  I have completed some projects in different programming languages and different tools or IDE. I have already acquired some knowledge about those and trying to learn more with time.<br>
   <b>🔎Research Interests:</b> Artificial Intelligence, Machine Learning, Automation System, Internet of Things.
   </p>
 
