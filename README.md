@@ -11,10 +11,16 @@
   I have completed some projects in different programming languages and different tools or IDE. I have already acquired some knowledge about those and trying to learn more with time.
   <b>🔎Research Interests:</b> Artificial Intelligence, Machine Learning, Automation System, Internet of Things.
   </p>
-<br>
 
+  
+  
+***<h1 align="center">📈 Stats</h1>***
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-nkp&show_icons=true&locale=en&theme=dracula" alt="DEV-NKP"/></p>
 
-***<h1 align="center">👨‍💻 Contact Me</h1>***
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nkp&layout=compact&theme=dracula"/></p>
+  
+  
+  ***<h1 align="center">👨‍💻 Contact Me</h1>***
   <p align="center">
   <a href="https://www.facebook.com/niloypaul.nkp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50"/></a>
   &nbsp;
@@ -24,9 +30,3 @@
   &nbsp;
   <a href="https://www.researchgate.net/profile/Niloy-Paul-2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="50" height="50"/></a>
   </p>
-  
-  
-***<h1 align="center">📈 Stats</h1>***
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-nkp&show_icons=true&locale=en&theme=dracula" alt="DEV-NKP"/></p>
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nkp&layout=compact&theme=dracula"/></p>
