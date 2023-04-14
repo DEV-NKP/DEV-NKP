@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, This is Niloy Kanti Paul </h1>
-<p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p>
+<p align="center"><img src="https://giphy.com/embed/26DoiqmYcxgFICb3G" height="200" width="200"/></p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dev-nkp" />
 </p>
