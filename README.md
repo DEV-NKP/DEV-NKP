@@ -6,7 +6,7 @@ This is Niloy Kanti Paul </h1>
 </kbd>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dev-nkp&color=282a36&style=for-the-badge	" />
+<img src="https://komarev.com/ghpvc/?username=dev-nkp&color=282a36&style=for-the-badge" />
 </p>
 
 
