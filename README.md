@@ -2,7 +2,7 @@
 <p align="center">
   <kbd>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjZmVkMzMwYTdhY2QyOWJjZDcxMmRkMzkzYjNkNTFkYTRmNzdmYyZjdD1n/26DoiqmYcxgFICb3G/giphy-downsized.gif" height="300" width="300"/>
-<kbd>
+</kbd>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dev-nkp" />
