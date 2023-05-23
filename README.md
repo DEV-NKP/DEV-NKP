@@ -32,7 +32,7 @@ This is Niloy Kanti Paul </h1>
   &nbsp;
   <a href="https://www.linkedin.com/in/niloy-kanti-paul-5543181ab/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg" alt="Linkedin" width="50" height="50"/></a>
   &nbsp;
-  <a href="https://twitter.com/Niloy_Paul_" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc.svg" alt="Twitter" width="50" height="50"/></a>
+  <a href="https://twitter.com/Niloy_Paul_" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="50" height="50"/></a>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Niloy-Paul-2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="50" height="50"/></a>
   </p>
